@@ -7,7 +7,7 @@
 
 I'm a Software Developer from Bremen/ Germany, I've quitted my last Job right before pandemic start, had some health issues and I'm now on my way back at the moment I'm doing an further education for mobile app development at Syntax Institut.
 
-Formerly I were a crm Developer especially Dynamics 365.
+Formerly I was an crm Developer especially Dynamics 365. But I needed a change...
 
 In the android module I've made the decision to go on my own with Jetpack Compose for my app idea instead of xml-view.
 
