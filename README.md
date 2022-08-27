@@ -1,7 +1,6 @@
 ### Hi there, I'm Jessi 👋
 
-![DE8B32E4-F440-44DF-A910-BA05861F4BE6_1_105_c](https://user-images.githubusercontent.com/99251460/187036815-10b9be08-8e1f-415b-9bad-c73edd6ec845.jpeg)
-
+![Ime_for_gitHUb](https://user-images.githubusercontent.com/99251460/187036915-2e27f073-2d32-497d-912b-0c05553d02e7.jpeg)
 
 I'm a Software Developer from Bremen/ Germany, I've quitted my last Job right before pandemic start, had some health issues and I'm now on my way back at the moment I'm doing an further education for mobile app development at Syntax Institut.
 
