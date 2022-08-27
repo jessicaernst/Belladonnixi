@@ -17,11 +17,10 @@ I'm interested in Swift, iOS, Androi, Kotlin, TDD, Cleancode.....
 Feel free to reach me
 
 
-<!--
+
 - 🌱 I’m currently learning iOS Development in Swift withe Storyboard and SwiftUI
 - 📫 How to reach me: 
                       [e-mail](jessica_ernst_bewerbung@outlook.com)
                       [linkedIn](https://www.linkedin.com/in/jessica-ernst-3705ab140/)
 - 😄 Pronouns: She/Her
 - 🗣️ Languages: German, English
--->
