@@ -18,7 +18,7 @@ Feel free to reach me
 
 
 
-- 🌱 I’m currently learning iOS Development in Swift withe Storyboard and SwiftUI
+- 🌱 I’m currently working on my final module Project for iOS in SwiftUI with combine (public soon)
 - 📫 How to reach me:<br/>
                      [e-mail](mailto:jessica_ernst_bewerbung@outlook.com?subject=[GitHub]%20Source%20Belladonnixi)<br/>
                      [linkedIn](https://www.linkedin.com/in/jessica-ernst-3705ab140/)<br/>
