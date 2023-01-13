@@ -10,15 +10,15 @@ In the android module I've made the decision to go on my own with Jetpack Compos
 
 Now learning iOS Development with Swift....
 
-And I'm looking for a new Job as mobile app dev after the course end in December'22
+##And I'm looking for a new Job as mobile app dev at the moment !!! Feel free to reach me
 
-I'm interested in Swift, iOS, Androi, Kotlin, TDD, Cleancode.....
+I'm interested in Swift, iOS, Android, Kotlin, TDD, Cleancode.....
 
 Feel free to reach me
 
 
 
-- 🌱 I’m currently working on my final module Project for iOS in SwiftUI with combine (public soon)
+- 🌱 I’m currently working on new Project Ideas at the momeent in design pocess but the new project won't be public but for sure I give access for applications feel free to reach me. You're welcome
 - 📫 How to reach me:<br/>
                      [e-mail](mailto:jessica_ernst_bewerbung@outlook.com?subject=[GitHub]%20Source%20Belladonnixi)<br/>
                      [LinkedIn](https://www.linkedin.com/in/jessica-ernst-3705ab140/)<br/>
