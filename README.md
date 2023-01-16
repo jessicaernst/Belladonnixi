@@ -8,9 +8,11 @@ Formerly I was an crm Developer especially Dynamics 365. But I needed a change..
 
 In the android module I've made the decision to go on my own with Jetpack Compose for my app idea instead of xml-view.
 
-Now learning iOS Development with Swift....
+In the Swift module I#ve made the decision to go with SwiftUI.
 
-## And I'm looking for a new Job as mobile app dev at the moment !!! Feel free to reach me
+Now I'm open for jobs as mobile app dev. My further education ended in December'22 but for sure I'm still learning and won't stop doing it. That's my Nature
+
+And I'm looking for a new Job as mobile app dev at the moment !!! Feel free to reach me
 
 I'm interested in Swift, iOS, Android, Kotlin, TDD, Cleancode.....
 
