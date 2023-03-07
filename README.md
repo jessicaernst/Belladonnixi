@@ -7,7 +7,7 @@
 
 I'm a Mobile App Developer mostly focused on iOS and especially SwiftUI.
 
-- 🌱 I’m currently working on new Project Ideas at the moment. 
+- 🌱 I’m currently working on new Project Ideas. 
 
 - 📫 How to reach me:<br/>
                      [e-mail](mailto:jessica_ernst_bewerbung@outlook.com?subject=[GitHub]%20Source%20Belladonnixi)<br/>
