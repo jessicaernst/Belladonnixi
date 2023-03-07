@@ -5,7 +5,7 @@
 
 
 
-I'm a Mobile Appa Developer working at Missing Gear Solutions GmbH. Mostly focused on iOS and especially SwiftUI.
+I'm a Mobile App Developer mostly focused on iOS and especially SwiftUI.
 
 - 🌱 I’m currently working on new Project Ideas at the moment. 
 
