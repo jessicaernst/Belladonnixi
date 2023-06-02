@@ -5,7 +5,7 @@
 
 
 
-I'm a Mobile App Developer mostly focused on iOS and especially SwiftUI. But Android too and there mostly Compose
+I'm a Mobile App Developer mostly focused on both systems but espaecially the new declarative Frameworks Compose and SwiftUI
 
 - 🌱 I’m currently working on new Project Ideas. 
 
