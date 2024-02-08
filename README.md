@@ -1,11 +1,6 @@
 ### Hi there, I'm Jessi 👋
 
-![Ime_for_gitHUb](https://user-images.githubusercontent.com/99251460/187037405-b79c7b75-f6d8-4306-b1db-3238acde85b2.jpeg)
-
-
-
-
-I'm a Mobile App Developer mostly focused on both systems but espaecially the new declarative Frameworks Compose and SwiftUI
+I'm a Mobile App Developer mostly focused on both systems but espaecially the new declarative Frameworks Compose and SwiftUI and Flutter. Mostly Flutter nowadays
 
 - 🌱 I’m currently working on new Project Ideas. 
 
