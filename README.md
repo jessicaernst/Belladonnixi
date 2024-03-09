@@ -20,6 +20,8 @@ I'm a Mobile App Developer mostly focused on both systems but espaecially the ne
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+Android: Room DB
+
 ### - Design
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
