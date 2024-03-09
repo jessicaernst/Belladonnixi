@@ -12,7 +12,7 @@ I'm a Mobile App Developer mostly focused on both systems but espaecially the ne
 
 ## Tech Stack:
 
-# - Database:
+### - Database:
 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
@@ -20,7 +20,7 @@ I'm a Mobile App Developer mostly focused on both systems but espaecially the ne
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-# - Design
+### - Design
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -28,7 +28,7 @@ I'm a Mobile App Developer mostly focused on both systems but espaecially the ne
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-# - Frameworks
+### - Frameworks
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
@@ -36,7 +36,7 @@ Android: Jetpack Compose, XML-View
 
 iOS: SwiftUI, UIKit
 
-# - Languages:
+### - Languages:
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
