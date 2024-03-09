@@ -10,3 +10,8 @@ I'm a Mobile App Developer mostly focused on both systems but espaecially the ne
 - 😄 Pronouns: She/Her
 - 🗣️ Languages: German, English
 
+## Tech Stack:
+
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+
