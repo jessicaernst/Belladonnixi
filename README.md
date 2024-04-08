@@ -14,7 +14,7 @@ I'm a Mobile App Developer mostly focused on both systems but espaecially the ne
 
 ### - Database:
 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the- ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)badge&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)badge&logo=mariadb&logoColor=white)
 
 
 
