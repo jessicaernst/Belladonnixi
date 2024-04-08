@@ -1,6 +1,6 @@
 ### Hi there, I'm Jessi 👋
 
-I'm a Mobile App Developer mostly focused on both systems but espaecially the new declarative Frameworks Compose and SwiftUI and Flutter. Mostly Flutter nowadays
+I'm a Mobile App Developer mostly focused on both systems but espaecially the new declarative Frameworks Compose and SwiftUI and Flutter. Mostly Flutter and iOS now
 
 - 🌱 I’m currently working on new Project Ideas. 
 
