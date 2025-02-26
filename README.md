@@ -1,6 +1,8 @@
 ### Hi there, I'm Jessi 👋
 
-I'm a Mobile App Developer mostly focused on iOS and Flutter. 
+I am a passionate mobile app developer with a strong interest in new technologies. As a dedicated agilist, I thrive in dynamic, customer-focused agile projects and enjoy tackling diverse challenges. 
+
+Continuously expanding my skills, I embrace learning and thinking beyond conventional boundaries.
 
 And open for new job challenges.
 
