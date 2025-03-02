@@ -1,3 +1,5 @@
+![Frame 42105](https://github.com/user-attachments/assets/69ed59db-5517-419f-b43f-5a765e8fa2ad)
+
 ### Hi there, I'm Jessi 👋
 
 I am a passionate mobile app developer with a strong interest in new technologies. As a dedicated agilist, I thrive in dynamic, customer-focused agile projects and enjoy tackling diverse challenges. 
